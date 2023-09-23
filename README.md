@@ -1,5 +1,7 @@
 # Air Landing Page 💨
 
+The landing page consists of various sections, including a header with a navigation menu, a slider, services and testimonials sections, a contact section with a form and contact information, and a footer.
+
 The landing page was implemented according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35).
 
 # Technologies & Tools Used
